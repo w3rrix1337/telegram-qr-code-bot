@@ -53,7 +53,7 @@ BOT_TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"
 Запустите основной скрипт:
 ```bash
 
-python qr_bot.py
+python main.py
 
 ```
 
