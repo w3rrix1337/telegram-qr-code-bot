@@ -29,6 +29,7 @@ Pillow
 ```bash
 git clone [https://github.com/w3rrix1337/telegram-qr-code-bot.git](https://github.com/w3rrix1337/telegram-qr-code-bot.git)
 cd telegram-qr-code-bot
+```
 
 ### 3. Установка зависимостей
 
